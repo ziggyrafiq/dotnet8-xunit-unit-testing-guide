@@ -1,0 +1,15 @@
+E:\GitHub\Articles-Posts\C#\dotnet8-xunit-unit-testing-guide\ZiggyRafiqConsoleApp\obj\Debug\net8.0\ZiggyRafiqConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Articles-Posts\C#\dotnet8-xunit-unit-testing-guide\ZiggyRafiqConsoleApp\obj\Debug\net8.0\ZiggyRafiqConsoleApp.AssemblyInfoInputs.cache
+E:\GitHub\Articles-Posts\C#\dotnet8-xunit-unit-testing-guide\ZiggyRafiqConsoleApp\obj\Debug\net8.0\ZiggyRafiqConsoleApp.AssemblyInfo.cs
+E:\GitHub\Articles-Posts\C#\dotnet8-xunit-unit-testing-guide\ZiggyRafiqConsoleApp\obj\Debug\net8.0\ZiggyRafiqConsoleApp.csproj.CoreCompileInputs.cache
+E:\GitHub\Articles-Posts\C#\dotnet8-xunit-unit-testing-guide\ZiggyRafiqConsoleApp\obj\Debug\net8.0\ZiggyRafiqConsoleApp.sourcelink.json
+E:\GitHub\Articles-Posts\C#\dotnet8-xunit-unit-testing-guide\ZiggyRafiqConsoleApp\bin\Debug\net8.0\ZiggyRafiqConsoleApp.exe
+E:\GitHub\Articles-Posts\C#\dotnet8-xunit-unit-testing-guide\ZiggyRafiqConsoleApp\bin\Debug\net8.0\ZiggyRafiqConsoleApp.deps.json
+E:\GitHub\Articles-Posts\C#\dotnet8-xunit-unit-testing-guide\ZiggyRafiqConsoleApp\bin\Debug\net8.0\ZiggyRafiqConsoleApp.runtimeconfig.json
+E:\GitHub\Articles-Posts\C#\dotnet8-xunit-unit-testing-guide\ZiggyRafiqConsoleApp\bin\Debug\net8.0\ZiggyRafiqConsoleApp.dll
+E:\GitHub\Articles-Posts\C#\dotnet8-xunit-unit-testing-guide\ZiggyRafiqConsoleApp\bin\Debug\net8.0\ZiggyRafiqConsoleApp.pdb
+E:\GitHub\Articles-Posts\C#\dotnet8-xunit-unit-testing-guide\ZiggyRafiqConsoleApp\obj\Debug\net8.0\ZiggyRafiqConsoleApp.dll
+E:\GitHub\Articles-Posts\C#\dotnet8-xunit-unit-testing-guide\ZiggyRafiqConsoleApp\obj\Debug\net8.0\refint\ZiggyRafiqConsoleApp.dll
+E:\GitHub\Articles-Posts\C#\dotnet8-xunit-unit-testing-guide\ZiggyRafiqConsoleApp\obj\Debug\net8.0\ZiggyRafiqConsoleApp.pdb
+E:\GitHub\Articles-Posts\C#\dotnet8-xunit-unit-testing-guide\ZiggyRafiqConsoleApp\obj\Debug\net8.0\ZiggyRafiqConsoleApp.genruntimeconfig.cache
+E:\GitHub\Articles-Posts\C#\dotnet8-xunit-unit-testing-guide\ZiggyRafiqConsoleApp\obj\Debug\net8.0\ref\ZiggyRafiqConsoleApp.dll
